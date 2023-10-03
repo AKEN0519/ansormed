@@ -1,0 +1,23 @@
+.serviceModal{
+    background-color: white;
+    position: absolute;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.closedModal{
+    display: none;
+}
+.lll{
+    background-color: green !important;
+}
+
+
+
+.closerButton{
+    color: red;
+    border-radius: 50px;
+    border: 10px;
+    background-color: white;
+}
